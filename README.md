@@ -1,4 +1,4 @@
-# Kaggle's Titanic Machine Learning from Disaster Survival Prediction using multiple classification models.
+# Kaggle's: Titanic Machine Learning from Disaster Survival Prediction.
 
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions.
 
